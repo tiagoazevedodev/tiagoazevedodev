@@ -3,6 +3,12 @@
 ## 🚀 About Me
 I'm a passionate Information Systems student and software developer from Rio Grande, Rio Grande do Sul, Brazil. I love turning ideas into reality through code and am always excited to learn new technologies!
 
+<div align="left">
+  
+[![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=tiagoazevedodev&theme=blue-white)](https://github.com/anuraghazra/github-readme-stats)
+  
+ </div>
+
 ## 🔧 Skills & Technologies
 - Frontend: React, Tailwind CSS, TypeScript
 - Backend: Python, Node.js, TypeScript
