@@ -7,7 +7,7 @@ I'm a passionate Information Systems student and software developer from Rio Gra
 - Frontend: React, Tailwind CSS, TypeScript
 - Backend: Python, Node.js, TypeScript
 - Data Analysis: Pandas, Plotly Express, Streamlit
-- <div align="right">
+<div align="right">
   
 [![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=tiagoazevedodev&theme=blue-white)](https://github.com/anuraghazra/github-readme-stats)
   
