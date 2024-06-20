@@ -1,4 +1,4 @@
-# Hello there! 👋 I'm Tiago Rodrigues Azevedo
+# Hello there! 👋 I'm Tiago Azevedo
 
 ## 🚀 About Me
 I'm a passionate Information Systems student and software developer from Rio Grande, Rio Grande do Sul, Brazil. I love turning ideas into reality through code and am always excited to learn new technologies!
